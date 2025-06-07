@@ -1,9 +1,9 @@
 🍏 Berber Uygulamasının İOS versiyonu SwiftUI ile geliştirldi
 
 -Uygulama Android özellikleri ile bire bir aynı UI kısmında değişikliğe gittim daha sade tuttum.
--Berberler için kendi not defterleri gibi kullana bilecekleri bir uygulama kullanan bütüm emekçilere selam olsun 
+-Berberler için kendi not defterleri gibi kullana bilecekleri bir uygulama kullanan bütüm emekçilere selam olsun
 
-
+![appicon](https://github.com/user-attachments/assets/ae177232-6ebc-47d8-b94e-fa997c45e8b6)
 ![E9875BEC-648C-4D68-A4C1-5E33CD1DE64A_4_5005_c](https://github.com/user-attachments/assets/ac01f201-e0f5-49bc-a47c-1a89c35c673d)
 ![1D0D858E-CD68-45E3-8DCF-F7515F53C155_1_102_o](https://github.com/user-attachments/assets/90a8741f-cbb1-4c74-8ca5-44fb1ae49f2c)
 ![1211E8DE-B416-4989-AEB3-EE6C4B4E5896_1_102_o](https://github.com/user-attachments/assets/eb16d836-cc59-417d-be2c-b1fe89a97dd2)
